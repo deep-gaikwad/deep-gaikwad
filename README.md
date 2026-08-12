@@ -18,4 +18,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepgaikwad259-sketch&show_icons=true&locale=en&layout=compact" alt="deepgaikwad259-sketch" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepgaikwad259-sketch&show_icons=true&locale=en" alt="deepgaikwad259-sketch" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepgaikwad259-sketch&show_icons=true&locale=en" alt="deepgaikwad259-sketch" /></p> 
