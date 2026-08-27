@@ -54,17 +54,6 @@
 
 </p>
 
-<p>
-<img align="left"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepgaikwad259-sketch&layout=compact&theme=tokyonight"
-alt="Top Languages"/>
-</p>
-
-<p>
-<img align="center"
-src="https://github-readme-stats.vercel.app/api?username=deepgaikwad259-sketch&show_icons=true&theme=tokyonight"
-alt="GitHub Stats"/>
-</p>
 
 ---
 
