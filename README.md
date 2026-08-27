@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 I'm currently working on **Python Data Analysis Projects**
-- 👨‍💻 All of my projects are available at **https://github.com/deepgaikwad259-sketch**
+- 👨‍💻 All of my projects are available at **https://github.com/deep-gaikwad**
 - 🤝 I'm looking for help with **Machine Learning & Advanced Data Analytics**
 - 📫 How to reach me **deepgaikwad259@gmail.com**
 
