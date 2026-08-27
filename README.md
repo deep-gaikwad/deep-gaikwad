@@ -1,85 +1,50 @@
-<h1 align="center">Hi 👋, I'm Deep Gaikwad</h1>
-<h3 align="center">Passionate about Data Analytics, Python, SQL & Business Intelligence.</h3>
+---
 
-- 🔭 I'm currently working on **Python Data Analysis Projects**
+# 🎓 My Certificates
 
-- 👨‍💻 All of my projects are available at **https://github.com/deepgaikwad259-sketch**
+Welcome to my certificate collection!
+This repository contains certificates from my learning and professional development journey.
 
-- 🤝 I'm looking for help with **Machine Learning & Advanced Data Analytics**
+---
 
-- 📫 How to reach me **deepgaikwad259@gmail.com**
+## 🐍 Python
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/deepgaikwad259-sketch" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+### FreeCodeCamp Certificate
 
-<a href="https://www.linkedin.com/in/deepgaikwad/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+Certificate for completing Python programming coursework and practical exercises.
 
-<a href="mailto:deepgaikwad259@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</p>
+[📜 View Certificate](./certificates/free%20code%20camp.jpeg)
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
-<p align="left">
+## 💻 HP LIFE
 
-<a href="https://www.cprogramming.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-</a>
+### HP LIFE Certificate
 
-<a href="https://www.w3schools.com/cpp/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-</a>
+Certificate earned through HP LIFE learning program.
 
-<a href="https://www.python.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
+[📜 View Certificate](./certificates/hp%20life.png)
 
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-</a>
+---
 
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-</a>
+## 📊 Simplilearn
 
-<a href="https://code.visualstudio.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-</a>
+### Simplilearn Certificate
 
-</p>
+Certificate earned through Simplilearn learning program.
 
-<p>
-<img align="left"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepgaikwad259-sketch&layout=compact&theme=tokyonight"
-alt="Top Languages"/>
-</p>
+[📜 View Certificate](./certificates/simpli%20learn.png)
 
-<p>
-<img align="center"
-src="https://github-readme-stats.vercel.app/api?username=deepgaikwad259-sketch&show_icons=true&theme=tokyonight"
-alt="GitHub Stats"/>
-</p>
+---
 
-<h3 align="left">🎓 Certifications:</h3>
+## 📁 Certificate Collection
 
-<p align="left">
+| Certificate | View |
+|---|---|
+| 🐍 FreeCodeCamp | [View Certificate](./certificates/free%20code%20camp.jpeg) |
+| 💻 HP LIFE | [View Certificate](./certificates/hp%20life.png) |
+| 📊 Simplilearn | [View Certificate](./certificates/simpli%20learn.png) |
 
-<a href="./certificates/free%20code%20camp.jpeg">
-<img src="./certificates/free%20code%20camp.jpeg" alt="FreeCodeCamp Certificate" width="250"/>
-</a>
+---
 
-<a href="./certificates/hp%20life.png">
-<img src="./certificates/hp%20life.png" alt="HP LIFE Certificate" width="250"/>
-</a>
-
-<a href="./certificates/simpli%20learn.png">
-<img src="./certificates/simpli%20learn.png" alt="Simplilearn Certificate" width="250"/>
-</a>
-
-</p>
+⭐ **Thank you for visiting my GitHub profile!**
