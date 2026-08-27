@@ -65,3 +65,21 @@ alt="Top Languages"/>
 src="https://github-readme-stats.vercel.app/api?username=deepgaikwad259-sketch&show_icons=true&theme=tokyonight"
 alt="GitHub Stats"/>
 </p>
+
+<h3 align="left">🎓 Certifications:</h3>
+
+<p align="left">
+
+<a href="./certificates/free%20code%20camp.jpeg">
+<img src="./certificates/free%20code%20camp.jpeg" alt="FreeCodeCamp Certificate" width="250"/>
+</a>
+
+<a href="./certificates/hp%20life.png">
+<img src="./certificates/hp%20life.png" alt="HP LIFE Certificate" width="250"/>
+</a>
+
+<a href="./certificates/simpli%20learn.png">
+<img src="./certificates/simpli%20learn.png" alt="Simplilearn Certificate" width="250"/>
+</a>
+
+</p>
