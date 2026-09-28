@@ -4,7 +4,6 @@
   Passionate about Data Analytics, Python, SQL & Business Intelligence.
 </h3>
 
-
 ---
 
 ### 👨‍💻 About Me
@@ -162,6 +161,28 @@ Certificate earned through Simplilearn as part of continuous professional learni
 
 ---
 
+## 📈 One Roadmap
+
+### Data Analyst Certificate
+
+<p>
+Certificate earned after successfully passing the One Roadmap Skill Certification Test in Data Analyst.
+</p>
+
+<p>
+<a href="./certificates/one-roadmap.png">
+<img src="./certificates/one-roadmap.png" alt="One Roadmap Data Analyst Certificate" width="500"/>
+</a>
+</p>
+
+<p>
+<a href="./certificates/one-roadmap.png">
+<img src="https://img.shields.io/badge/📜%20View%20Certificate-181717?style=for-the-badge" alt="View One Roadmap Certificate"/>
+</a>
+</p>
+
+---
+
 ## 📁 Certificate Collection
 
 | Certificate | Organization | View |
@@ -169,6 +190,7 @@ Certificate earned through Simplilearn as part of continuous professional learni
 | 🐍 Python Programming | FreeCodeCamp | [📜 View Certificate](./certificates/free%20code%20camp.jpeg) |
 | 💻 Professional & Digital Skills | HP LIFE | [📜 View Certificate](./certificates/hp%20life.png) |
 | 📊 Professional Learning | Simplilearn | [📜 View Certificate](./certificates/simpli%20learn.png) |
+| 📈 Data Analyst | One Roadmap | [📜 View Certificate](./certificates/one-roadmap.png) |
 
 ---
 
