@@ -52,7 +52,7 @@ Certificate earned after successfully passing the One Roadmap Skill Certificatio
 | 🐍 FreeCodeCamp | [View Certificate](./free%20code%20camp.jpeg) |
 | 💻 HP LIFE | [View Certificate](./hp%20life.png) |
 | 📊 Simplilearn | [View Certificate](./simpli%20learn.png) |
-| 📈 One Roadmap – Data Analyst | [View Certificate](./one%20roadmap.png) |
+| 📈 One Roadmap – Data Analyst | [View Certificate](./certificates/one-roadmap.png) |
 
 ---
 
