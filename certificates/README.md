@@ -35,6 +35,16 @@ Certificate earned through Simplilearn learning program.
 
 ---
 
+## 📈 One Roadmap
+
+### Data Analyst Certificate
+
+Certificate earned after successfully passing the One Roadmap Skill Certification Test in Data Analyst.
+
+[📜 View Certificate](./one%20roadmap.png)
+
+---
+
 ## 📁 Certificate Collection
 
 | Certificate | View |
@@ -42,6 +52,7 @@ Certificate earned through Simplilearn learning program.
 | 🐍 FreeCodeCamp | [View Certificate](./free%20code%20camp.jpeg) |
 | 💻 HP LIFE | [View Certificate](./hp%20life.png) |
 | 📊 Simplilearn | [View Certificate](./simpli%20learn.png) |
+| 📈 One Roadmap – Data Analyst | [View Certificate](./one%20roadmap.png) |
 
 ---
 
